@@ -10,6 +10,9 @@
 **Step 2: Upload your image in your current folder**
 
 **Step 3: Run file "face_detection.py"" to perform Face Detection**
+```
+python face_detection.py
+```
 
 ![image](https://user-images.githubusercontent.com/120365693/225253014-171c2e04-da74-4af5-88d8-f3960abbc2ba.png)
 
