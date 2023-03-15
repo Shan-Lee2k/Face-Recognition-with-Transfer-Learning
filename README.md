@@ -3,7 +3,8 @@
 
 ### Module1: PERFORM FACE DETECTION:
 
-**Step 1: Download file "haarcascade_frontalface_default.xml" **
+**Step 1: Download file "haarcascade_frontalface_default.xml"**
+
 - This 'XML' file contains a pre-trained model that was created through extensive training and uploaded by Rainer Lienhart on behalf of Intel in 2000
 
 **Step 2: Upload your image in your current folder**
