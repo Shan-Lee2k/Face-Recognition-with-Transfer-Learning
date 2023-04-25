@@ -32,6 +32,6 @@ python train.py
 python demoResult.py
 ```
 
-![image](https://user-images.githubusercontent.com/120365693/225253014-171c2e04-da74-4af5-88d8-f3960abbc2ba.png)
+![image](https://user-images.githubusercontent.com/120365693/234243694-74cc285c-8f70-4b56-8a0c-c3e817f6846e.png)
 
 
